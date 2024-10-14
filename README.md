@@ -1,8 +1,8 @@
-<h3 align="left">Hi 👋! My name is Henrique Romão and I'm a BackEnd Developer, from Brazil</h3>
+<h3 align="left">Hi 👋! My name is Henrique Romão and I'm a Web Developer, from Brazil</h3>
 
 ###
 
-<p align="left">📑 I'm graduating in Systems analysis and development at the Centro Universitário de Belo Horizonte (UniBH)<br>⚡ Focusing on learning BackEnd Developing w/ Python, Java and PHP.</p>
+<p align="left">📑 I'm graduating in Systems analysis and development at the Centro Universitário de Belo Horizonte (UniBH)<br>⚡ Focusing on learning Web Developing w/ Python, Java, HTML, CSS.</p>
 
 ###
 

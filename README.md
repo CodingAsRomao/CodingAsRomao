@@ -26,17 +26,6 @@
 
 ###
 
-<div align="left">
-  <a href="https://www.instagram.com/hnromao/" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="instagram logo"  />
-  </a>
-  <a href="www.linkedin.com/in/romaodev" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="linkedin logo"  />
-  </a>
-</div>
-
-###
-
 <img align="right" height="150" src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExbmpyYjE3eGttbXFkc2w2dHdqaTF5cXp5ZnE5OWt5MHpwajM1Nm5hcCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/ADSJHOoIvyjKM/giphy.gif"  />
 
 ###

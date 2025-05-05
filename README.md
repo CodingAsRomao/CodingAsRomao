@@ -26,6 +26,6 @@
 
 ###
 
-<img align="right" height="150" src="https://tenor.com/pt-BR/view/itachi-uchiha-gif-14920261345996215704"  />
+<img align="right" height="150" src="[https://tenor.com/pt-BR/view/itachi-uchiha-gif-14920261345996215704](https://media.tenor.com/zw9qpKwYlZgAAAAM/itachi-uchiha.gif)"/>
 
 ###
